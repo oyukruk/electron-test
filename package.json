@@ -1,0 +1,25 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyukruk/electron-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyukruk/electron-test/issues"
+  },
+  "homepage": "https://github.com/oyukruk/electron-test#readme",
+  "main": "main.js",           
+  "scripts": {
+    "start": "electron ."      
+  }
+  
+}
